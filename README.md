@@ -8,14 +8,14 @@
     </a>
 
 <div align="center">
-        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zSpl1nterUS&show_icons=true&theme=dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true,contribs" />
+        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=theynult&show_icons=true&theme=dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true,contribs" />
         <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=theynult&theme=dark&hide_border=true&layout=compact&langs_count=7" alt="Github Languages" />
       <br>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=theynult&theme=midnight-purple&hide_border=true&background=151515">
 </div>
 
 <p align="center">
-<a href="https://wakatime.com/@splinter" target="_blank">
+<a href="https://wakatime.com/@theynult" target="_blank">
 
 </a>
 </p>
@@ -28,7 +28,7 @@
 <br>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=zSpl1nterUS&color=green" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=theynult&color=green" alt="Profile views" />
 </div>
 
 </div>
